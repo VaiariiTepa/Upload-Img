@@ -1,5 +1,5 @@
 <?php 
-    require __DIR__ . '/../connexion/connexiondb.php';
+    require __DIR__ . '/../database/connexiondb.php';
     include 'classDescription.php';
 
     /**
